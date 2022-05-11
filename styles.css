@@ -1,0 +1,15 @@
+
+    
+
+.menu-opcoes ul {
+    font-size: 15px;
+}
+.menu-opcoes a {
+    color:#003366;
+    padding-top: 0;
+}
+body{
+    
+    color: #D2691E;//cores de letras que aparecem na pagina 
+    font-family: 'Lucida Sans', 'Lucida Grande', 'Lucida Sans Unicode',  sans-serif;
+}
